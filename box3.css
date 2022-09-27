@@ -1,0 +1,18 @@
+.outer{
+    height:200px;
+    width:200px;
+    background-color: red;
+    
+}
+.first{
+ height:200px;
+ width:200px;
+ background-color: green;
+ margin-left: 200px;
+}
+.second{
+    height:200px;
+    width:200px;
+    background-color: yellow;
+    margin-left: 400px;
+}
